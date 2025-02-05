@@ -38,9 +38,22 @@ Ensure you have the following installed:
 - **Git**: To clone the repository, you need Git installed. Download it from [here](https://git-scm.com/).
 - **JDK**: Java Development Kit (JDK) version 8 or higher.
 
+
 ### Cloning the Repository
 
 To get started, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/JamesWainaina/MOBILE-DESKTOP-STAGE-0-TASK.git
+```
+
+### Opening the Project
+- Open Android Studio.
+- Click on Open an existing project and navigate to the folder where you cloned the repository.
+- Select the project folder and open it in Android Studio.
+
+### Building and Running the App
+ - After opening the project, you may need to sync Gradle. Android Studio will usually prompt you to do this when you open the project for the first time.
+ - Connect a physical Android device or use the Android Emulator.
+ - Press the Run button in Android Studio (the green play button).
+ - The app should launch, and you can interact with it on your device or emulator.
